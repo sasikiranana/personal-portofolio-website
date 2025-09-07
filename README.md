@@ -5,4 +5,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Preview
 
-![Home](Screenshot 2025-08-27 112540.png)
+![Home]()
