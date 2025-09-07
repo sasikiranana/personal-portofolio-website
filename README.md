@@ -1,5 +1,5 @@
 # Sasikirana Nayla Zahra's Portofolio
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Tugas membuat web portofolio 
 
 [Preview Link](https://sasikiranana.github.io/personal-portofolio-website/)
 
