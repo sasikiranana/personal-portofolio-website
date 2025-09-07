@@ -5,4 +5,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Preview
 
-![Home](https://github.com/sasikiranana/personal-portofolio-website/blob/main/Screenshot%202025-08-27%20112540.png)
+![Home](https://github.com/sasikiranana/personal-portofolio-website/blob/main/Preview%20Website%20Sasi.png)
