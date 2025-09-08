@@ -67,6 +67,10 @@ a {
     color: #7cf03d;
 }
 
+.navbar scroll {
+    scroll-behavior: smooth;
+}
+
 .home {
     display: flex;
     align-items: center;
@@ -260,6 +264,8 @@ a {
 .services {
     background: #1f242d;
     color: #fff;
+    margin-top: 5rem;
+    padding-top: 5rem;
 }
 
 .heading {
@@ -275,6 +281,17 @@ a {
 .services-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    gap: 2rem;
+}
+
+.services {
+    padding: 4rem 6rem;
+    background: #1f242d;
+}
+
+.services .services-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     gap: 2rem;
 }
 
@@ -345,6 +362,11 @@ a {
 .resume {
     background: #1f242d;
     color: #fff;
+    padding: 6rem 6rem;
+}
+
+.resume-left {
+    padding-left: 3rem;
 }
 
 .resume-container {
