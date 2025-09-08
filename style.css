@@ -7,6 +7,26 @@
     --box-color: rgba(255, 255, 255, 0.2);
 }
 
+#home {
+    background: #1c1f26;
+}
+
+#services {
+    background: #23272f;
+}
+
+#about {
+    background: #1c1f26;
+}
+
+#portfolio {
+    background: #23272f;
+}
+
+#contact {
+    background: #1c1f26;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -411,6 +431,33 @@ a {
 
 .resume-detail.active {
     display: block;
+}
+
+.resume-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /* bikin 3 kolom */
+    gap: 2rem;
+    /* jarak antar kotak */
+}
+
+.resume-item {
+    background: var(--second-bg-color);
+    border-radius: 1rem;
+    padding: 2rem;
+    text-align: center;
+    font-size: 1.6rem;
+    color: var(--white-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.resume-item i {
+    font-size: 4rem;
+    margin-top: 1rem;
+    color: var(--white-color);
 }
 
 .resume-box .heading {
