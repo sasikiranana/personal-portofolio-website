@@ -1,7 +1,7 @@
 # Sasikirana Nayla Zahra's Portofolio
 Tugas membuat web portofolio 
 
-[Preview Link](https://sasikiranana.github.io/personal-portofolio-website/)
+[Preview Link]( https://sasikiranana.github.io/personal-portofolio-website/ )
 
 ## Preview
 
